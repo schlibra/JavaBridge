@@ -1,10 +1,12 @@
+# [JavaBridge教程](https://javabridge.xcgzs.xyz) 
+##  **多屏幕实现**
 ### 在项目清单中添加新的启动类：
 ```
-  <activity android:name="启动类">
-            <intent-filter>
-                <action  android:name="android.intent.action.MAIN"/>
-            </intent-filter>
-        </activity>
+<activity android:name="启动类">
+   <intent-filter>
+     <action android:name="android.intent.action.MAIN"/>
+   </intent-filter>
+</activity>
 ```
 ### 打开屏幕但不带初始值：
 ```
