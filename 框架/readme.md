@@ -4,7 +4,7 @@
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sch.jsq" >
+    package="应用包名" >
     <application
         android:allowBackup="true"
         android:icon="应用图标路径"
